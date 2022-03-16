@@ -98,6 +98,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
         <img src="fleur.jpg" style="width:100%">
         <img src="wedding.jpg" style="width:100%">
         <img src="wf.jpg" style="width:100%">
+        <img src="ps.jpg" style="width:100%">
       </div>
 
       <div class="w3-half">
