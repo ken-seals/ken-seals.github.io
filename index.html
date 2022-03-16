@@ -59,12 +59,12 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
   <header class="w3-container w3-padding-32 w3-center w3-black" id="home">
     <h1 class="w3-jumbo"><span class="w3-hide-small">I'm</span> Ken Seals.</h1>
     <p>Photographer and Filmmaker.</p>
-    <img src="D585F34D-0708-44BD-AB3D-3936A1221E2E.JPEG" width="992" height="1100">
+    <img src="D585F34D-0708-44BD-AB3D-3936A1221E2E.JPEG" width="992" height="1000">
   </header>
 
   <!-- About Section -->
   <div class="w3-content w3-justify w3-text-grey w3-padding-64" id="about">
-    <h2 class="w3-text-light-grey">My Name</h2>
+    <h2 class="w3-text-light-grey">Ken Seals</h2>
     <hr style="width:200px" class="w3-opacity">
     <p>Ken Seals is an assertive creative, full of passion. Ken creates in many mediums, such as photography, videography, cinematography, writing and more. Once she starts a project she is determined to finish it, and finish it well. Even the comedy aspect of her art is well thought out and presented in its own way. Ken Seals desired to create her own worlds within this one by way of writing and filming. She is passionate about Greek mythology and the creation of films. Editing videos is one of her pastimes. She enjoys working on videos and getting to see her final product. Ken would love to be a part of the creation of a show depicting Greek myths using her vast knowledge of the mythology. She wishes to see myths on the screen for all to see and she would work her hardest to make that happen. Ken loves the community of projects. The bonds that are made with the people you work with daily. She has worked on many musicals in her school years and deeply appreciated the connections and family that was made during those productions. She has an eye for beauty in the little things. She can take a photo of nothing and make it something. Nothing is truly ugly to her. She can find the best out of the worst. Ken has always been a creative person. As a child she desired to be an art teacher and would paint and draw often. Then she would create wild stories, and then she moved to video and photo. She lives with small worlds of fantasy floating around in her head. Great ideas are never far from her mind. Ken loves working with her hands and being apart of something big and will always strive to be that way.
     </p>
