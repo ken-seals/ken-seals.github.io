@@ -128,7 +128,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
 
     <!-- Footer -->
   <footer class="w3-content w3-padding-64 w3-text-grey w3-xlarge">
-    <i class="fa fa-instagram w3-hover-opacity">https://www.instagram.com/kenspiring/</i>
+    <i class="fa fa-instagram w3-hover-opacity"></i>
     <i class="fa fa-youtube w3-hover-opacity"></i>
   <!-- End footer -->
   </footer>
