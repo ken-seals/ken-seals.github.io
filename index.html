@@ -129,11 +129,8 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
     <!-- Footer -->
   <footer class="w3-content w3-padding-64 w3-text-grey w3-xlarge">
     <a href="https://www.instagram.com/kenseals16/?hl=en" class="fa fa-instagram w3-hover-opacity"></i>
-     </div>
     <a href="https://www.youtube.com/kenseals16" class="fa fa-youtube w3-hover-opacity"></i>
-   </div>
     <a href="https://vimeo.com/user171538776" class="fa fa-vimeo w3-hover-opacity"></i>
-   </div>
     <a href="https://www.flickr.com/people/194976729@N02/" class="fa fa-flickr w3-hover-opacity"></i>
   <!-- End footer -->
   </footer>
