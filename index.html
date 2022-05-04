@@ -84,7 +84,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
 
 
     <button class="w3-button w3-light-grey w3-padding-large w3-section">
-      <i class="https://github.com/ken-seals/ken-seals.github.io/raw/main/THE%20Resume.docx.pdf"></i> Download Resume
+      <i class="fa fa-download"></i> Download Resume
     </button>
 
   <!-- Portfolio Section -->
